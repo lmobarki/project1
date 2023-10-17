@@ -23,12 +23,12 @@ nav ul li {
 nav ul li a {
   display: block;
   padding: 20px 40px;
-  front-size: 20px;
+  front-size: 20px
   color: #f0f6fc;
   text-decoration: none;
-  front-weight: bold;
+  front-weight: bold
   text-transform: uppercase;
-  front-family: Aprial, sane-serif;
+  front-family: Aprial, sane-serif
   text-align: center;
 }
 

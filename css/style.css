@@ -66,13 +66,16 @@ nav ul li a:hover {
 
  #Activities ul {
   list-style-type: none;
+  font-style: italic;
  }
 
  #Skills ul {
   list-style-type: none;
+  font-style: italic;
  }
 #Hobbies ul {
   list-style-type: none;
+  font-style: italic;
  }
 
 

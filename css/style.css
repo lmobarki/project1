@@ -64,7 +64,7 @@ nav ul li a:hover {
    
 }
 
-.A_Administration section {
+.A_Administration  {
  display: flex;
   flex-direction: column;
   justify-content: center;

@@ -107,13 +107,18 @@ margin: auto;
 }
 #TheUsfuriya  h2, p {
   font-size: 18px;
+  font-size: 18px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
 }
 
 #TheUsfuriya img  {
-position: relative;
-  width: 231.4px;
-  left: 75px;
- 
+  position: relative;
+  width: 200px;
+display: block;
+margin: auto;
 	
 	
 

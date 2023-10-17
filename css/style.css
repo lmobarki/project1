@@ -64,9 +64,17 @@ nav ul li a:hover {
    
 }
 
- #Activities,#Skills, #Hobbies ul {
+ #Activities ul {
   list-style-type: none;
  }
+
+ #Skills ul {
+  list-style-type: none;
+ }
+##Hobbies ul {
+  list-style-type: none;
+ }
+
 
 #boks  {
  display: flex;

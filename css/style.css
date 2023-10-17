@@ -37,7 +37,7 @@ nav ul li a:hover {
 }
 
 #name {
-  display: block;
+  display: flex;
   border: 5px solid;
   justify-content: center;
   

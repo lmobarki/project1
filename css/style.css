@@ -206,6 +206,7 @@ nav ul li a:hover {
 
  h3 {
   font-size: 18px;
+  font: serif;
   display: flex;
   flex-direction: column;
   justify-content: center;

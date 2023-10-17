@@ -55,7 +55,7 @@ nav ul li a:hover {
 #Education, #Skills, #Hobbies{ 
   float: left;
   width: 25%;
-  margin:  5%;
+  margin:  5% 0 0;
   outline: 2px dashed #dd0009;
    
 }

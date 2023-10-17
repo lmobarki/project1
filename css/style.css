@@ -80,6 +80,10 @@ justify-content: left;
  align-items: left;
  
 }
+#A_Administration img {
+	
+	float: right;
+}
 	
 
 

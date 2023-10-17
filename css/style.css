@@ -39,7 +39,7 @@ nav ul li a:hover {
 #name {
   display: block;
   border: 5px solid;
-  align-items: center;
+  justify-content: center;
   
 }
 

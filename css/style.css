@@ -144,6 +144,33 @@ display: block;
 margin: auto;
 }
 
+#Finjan {
+  display: block;
+  margin: 0px;
+  padding: 80px;
+  border: 0px;
+}
+
+#Finjan h2, p {
+  font-size: 18px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
+
+ 
+ 
+}
+#Finjan img {
+  position: relative;
+  width: 200px;
+display: block;
+margin: auto;
+
+	
+}
+
+
 	
 	
 

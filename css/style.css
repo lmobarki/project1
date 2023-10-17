@@ -92,21 +92,20 @@ justify-content: center;
 	
 }
 
+#TheUsfuriya  {
+  display: block;
+  margin: 0px;
+  padding: 80px;
+  border: 0px;
+}
 #TheUsfuriya  h2, p {
-  display: flex;
-  width: 100%;
-  align-content: normal;
-  text-align: center;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  font-size: 18px;
 }
 
 #TheUsfuriya img  {
-display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+position: relative;
+  width: 231.4px;
+  left: 75px;
  
 	
 	

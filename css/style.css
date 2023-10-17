@@ -33,7 +33,6 @@ nav ul li a:hover {
 
 #name {
   display: block;
-  flex-direction: column;
   border: 5px solid;
 
   

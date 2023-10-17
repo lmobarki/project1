@@ -1,9 +1,9 @@
-nav#horz1 {
+nav {
   background-color: #777;
   
 }
 
-nav#horz1 ul {
+nav ul {
   list-style-type: none;
   margine: 0;
   pardding: 0;

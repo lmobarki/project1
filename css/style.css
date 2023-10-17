@@ -75,27 +75,31 @@ justify-content: center;
 
 #A_Administration h2, p {
   float: left;
-  width: 60%;
-  margin: 0 5%;
+ flex-direction: column;
+justify-content: center;
+ align-items: center;
  
 }
 #A_Administration img {
 	float: right;
-	width: 25%;
-  margin: 0 5% 0 0;
+	flex-direction: column;
+justify-content: center;
+ align-items: center;
 	
 }
 
 #TheUsfuriya  h2, p {
   float: left;
-  width: 60%;
-  margin:  5%;
+ flex-direction: column;
+justify-content: center;
+ align-items: center;
 }
 
 #TheUsfuriya img  {
 	float: right;
-	width: 25%;
-  margin: 0 5% 0 0;
+	flex-direction: column;
+justify-content: center;
+ align-items: center;
  
 	
 	

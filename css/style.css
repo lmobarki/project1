@@ -38,16 +38,17 @@ nav ul li a:hover {
 }
 
 #Objective, Activities { 
+  float: left;
+  width: 60%;
+  margin: 0 5%;
+  outline: 2px dashed #0053ae
  
-  width: 300px;
-  height: 100px;
-  border: 1px solid blue;
+
 }
 #Education, Skills, Hobbies{ 
-   width: 300px;
-  height: 100px;
-  padding: 50px;
-  border: 1px solid red;
-  box-sizing: border-box;
-  
+  float: left;
+  width: 25%;
+  margin: 0 5% 0 0;
+  outline: 2px dashed #dd0009;
+   
 }

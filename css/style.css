@@ -7,6 +7,10 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  float: left;
+  width: 100%;
+  height: auto;
+  position: fixed;
 }
 
 nav ul li {

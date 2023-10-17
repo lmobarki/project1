@@ -40,8 +40,8 @@ nav ul li a:hover {
   display: flex;
   flex-direction: column;
   border: 5px solid;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   
 }
 

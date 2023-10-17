@@ -78,8 +78,8 @@ nav ul li a:hover {
 
 #boks  {
  display: flex;
-flex-direction: column;
-justify-content: center;
+ flex-direction: column;
+ justify-content: center;
  align-items: center;
  
   
@@ -95,9 +95,9 @@ justify-content: center;
 #A_Administration h2, p {
   font-size: 18px;
   display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
  
  
@@ -105,8 +105,8 @@ justify-content: center;
 #A_Administration img {
   position: relative;
   width: 200px;
-display: block;
-margin: auto;
+  display: block;
+  margin: auto;
 
 	
 }
@@ -119,22 +119,21 @@ margin: auto;
 }
 #TheUsfuriya  h2, p {
   font-size: 18px;
-  font-size: 18px;
   display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #TheUsfuriya img  {
   position: relative;
   width: 200px;
-display: block;
-margin: auto;
+  display: block;
+  margin: auto;
 }
 
 #Abjura{
- display: block;
+  display: block;
   margin: 0px;
   padding: 80px;
   border: 0px;
@@ -142,9 +141,9 @@ margin: auto;
 #Abjura h2, p {
   font-size: 18px;
   display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
  
  
@@ -152,8 +151,8 @@ justify-content: center;
 #Abjura img {
   position: relative;
   width: 200px;
-display: block;
-margin: auto;
+  display: block;
+  margin: auto;
 }
 
 #Finjan {
@@ -166,9 +165,9 @@ margin: auto;
 #Finjan h2, p {
   font-size: 18px;
   display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
  
  
@@ -176,8 +175,8 @@ justify-content: center;
 #Finjan img {
   position: relative;
   width: 200px;
-display: block;
-margin: auto;
+  display: block;
+  margin: auto;
 
 	
 }
@@ -191,9 +190,9 @@ margin: auto;
 #SaturdayCouch h2, p {
   font-size: 18px;
   display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
  
  
@@ -201,24 +200,22 @@ justify-content: center;
 #SaturdayCouch img {
   position: relative;
   width: 200px;
-display: block;
-margin: auto;
-
-	
+  display: block;
+  margin: auto;	
 }
 
  h3 {
   font-size: 18px;
   display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
  }
 
 iframe {
  position: relative;
-display: block;
-margin: auto;
+ display: block;
+ margin: auto;
 	
 }
 

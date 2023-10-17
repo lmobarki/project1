@@ -93,6 +93,10 @@ justify-content: center;
   position: relative;
   width: 231.4px;
   left: 75px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
 	
 }
 

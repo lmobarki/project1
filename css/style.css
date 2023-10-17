@@ -64,6 +64,10 @@ nav ul li a:hover {
    
 }
 
+ #Activities nav ul {
+  list-style-type: none;
+ }
+
 #boks  {
  display: flex;
 flex-direction: column;

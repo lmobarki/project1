@@ -52,7 +52,7 @@ nav ul li a:hover {
  
 
 }
-#Education, Skills, Hobbies{ 
+#Education, #Skills, #Hobbies{ 
   float: left;
   width: 25%;
   margin: 0 5% 0 0;
@@ -60,15 +60,4 @@ nav ul li a:hover {
    
 }
 
-#Skills ul{
-  float: right;
-  width: 25%;
-  margin: 0 5% 0 0;
-  
-}
 
-#Hobbies ul {
-	 float: right;
-  width: 25%;
-  margin: 0 5% 0 0;
-}

@@ -10,3 +10,7 @@ nav#horz1 ul {
   overflow: hidden;
   
 }
+
+nav#horz1 ul li {
+  float: left;
+}

@@ -23,7 +23,7 @@ nav ul li a {
   display: block;
   padding: 20px 40px;
   front-size: 20px;
-  color: #3582c4;
+  color: #f0f6fc;
   text-decoration: none;
   front-weight: bold;
   text-transform: uppercase;
@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #ccc;
+  background-color: #2271b1;
   color: #000;
 }
 

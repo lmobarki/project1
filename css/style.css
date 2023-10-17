@@ -74,8 +74,9 @@ justify-content: center;
 }
 
 #A_Administration h2 {
-  justify-content: left;
-  align-items: left;
+  float: left;
+  width: 60%;
+  margin: 0 5%;
 }
 	
 

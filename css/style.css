@@ -12,9 +12,6 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  width: 100%;
-  height: auto;
-  position: fixed;
 
 }
 
@@ -42,6 +39,7 @@ nav ul li a:hover {
 #name {
   display: block;
   border: 5px solid;
+  align-items: center;
   
 }
 

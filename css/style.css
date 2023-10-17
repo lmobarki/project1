@@ -195,6 +195,14 @@ margin: auto;
 	
 }
 
+ h3 {
+  font-size: 18px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
+ }
+
 
 	
 	

@@ -74,30 +74,30 @@ justify-content: center;
 }
 
 #A_Administration h2, p {
-  float: left;
- flex-direction: column;
+ display: flex;
+flex-direction: column;
 justify-content: center;
  align-items: center;
  
 }
 #A_Administration img {
-	float: right;
-	flex-direction: column;
+	display: flex;
+flex-direction: column;
 justify-content: center;
  align-items: center;
 	
 }
 
 #TheUsfuriya  h2, p {
-  float: left;
- flex-direction: column;
+display: flex;
+flex-direction: column;
 justify-content: center;
  align-items: center;
 }
 
 #TheUsfuriya img  {
-	float: right;
-	flex-direction: column;
+display: flex;
+flex-direction: column;
 justify-content: center;
  align-items: center;
  

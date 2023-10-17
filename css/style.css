@@ -24,3 +24,8 @@ nav ul li a {
   front-family: Aprial, sane-serif;
   text-align: center;
 }
+
+nav ul li a:hover {
+  background-color: #ccc;
+  color: #000;
+}

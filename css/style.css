@@ -75,13 +75,11 @@ justify-content: center;
 
 #A_Administration h2, p {
   float: left;
- display: flex;
-justify-content: left;
- align-items: left;
+  width: 60%;
+  margin: 0 5%;
  
 }
 #A_Administration img {
-	
 	float: right;
 }
 	

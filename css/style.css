@@ -48,7 +48,7 @@ nav ul li a:hover {
 #Objective, #Activities { 
   float: left;
   width: 60%;
-  margin:  5%;
+  margin: 0 5%;
  
 
  
@@ -58,8 +58,7 @@ nav ul li a:hover {
   float: left;
   width: 25%;
   margin: 5% 0 0;
-  
-  
+
    
 }
 

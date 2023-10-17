@@ -206,7 +206,7 @@ nav ul li a:hover {
 
  h3 {
   font-size: 18px;
-  front-family: monospace;
+  font-style: italic;
   display: flex;
   flex-direction: column;
   justify-content: center;

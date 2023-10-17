@@ -119,6 +119,30 @@ justify-content: center;
   width: 200px;
 display: block;
 margin: auto;
+}
+
+#Abjura{
+ display: block;
+  margin: 0px;
+  padding: 80px;
+  border: 0px;
+}
+#Abjura h2, p {
+  font-size: 18px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
+
+ 
+ 
+}
+#Abjuran img {
+  position: relative;
+  width: 200px;
+display: block;
+margin: auto;
+
 	
 	
 

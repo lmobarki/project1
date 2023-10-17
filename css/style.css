@@ -84,6 +84,12 @@ justify-content: center;
 	width: 25%;
   margin: 0 5% 0 0;
 }
+
+#TheUsfuriya  h2, p {
+  float: left;
+  width: 60%;
+  margin: 0 5%;
+}
 	
 
 

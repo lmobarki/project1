@@ -82,6 +82,10 @@ justify-content: center;
 
 #A_Administration h2, p {
   font-size: 18px;
+  display: flex;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
  
  
 }

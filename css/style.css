@@ -11,6 +11,24 @@ nav ul {
   
 }
 
-nav#horz1 ul li {
+nav ul li {
   float: left;
+}
+
+nav ul li a {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 20px 40px;
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'courier new', courier;
+}
+
+nav a:hover {
+  transition: all 0.5s;
+  color: #2ecc71;
+  text-decoration: wavy underline;
+  text-underline-offset: 5px;
+  text-decoration-color: #2ecc71;
 }

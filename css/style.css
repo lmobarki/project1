@@ -140,6 +140,7 @@ nav ul li a:hover {
 }
 #Abjura h2, p {
   font-size: 18px;
+  font-style: italic;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -164,6 +165,7 @@ nav ul li a:hover {
 
 #Finjan h2, p {
   font-size: 18px;
+  font-style: italic;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -189,6 +191,7 @@ nav ul li a:hover {
 
 #SaturdayCouch h2, p {
   font-size: 18px;
+  font-style: italic;
   display: flex;
   flex-direction: column;
   justify-content: center;

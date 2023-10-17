@@ -64,7 +64,7 @@ nav ul li a:hover {
    
 }
 
- #Activities ul {
+ #Activities,#Skills, #Hobbies ul {
   list-style-type: none;
  }
 

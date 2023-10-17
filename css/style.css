@@ -1,4 +1,12 @@
-nav#horz1 ul {
+nav#horz1 {
+  background-color: #777:
   
+}
+
+nav#horz1 ul {
+  list-style-type: none;
+  margine: 0;
+  pardding: 0;
+  overflow: hidden;
   
 }

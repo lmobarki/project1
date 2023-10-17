@@ -89,6 +89,7 @@ justify-content: center;
 }
 
 #TheUsfuriya  h2, p {
+  display: flex;
   width: 80%;
   align-content: normal;
   justify-content: center;

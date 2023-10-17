@@ -73,18 +73,22 @@ justify-content: center;
   
 }
 
+#A_Administration {
+  display: block;
+  margin: 0px;
+  padding: 80px;
+  border: 0px;
+}
+
 #A_Administration h2, p {
- display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  font-size: 18px;
+  color: red;
  
 }
 #A_Administration img {
-	display: flex;
-flex-direction: column;
-justify-content: center;
- align-items: center;
+  position: relative;
+  width: 231.4px;
+  left: 75px;
 	
 }
 

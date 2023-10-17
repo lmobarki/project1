@@ -92,8 +92,10 @@ justify-content: center;
   display: flex;
   width: 80%;
   align-content: normal;
-  justify-content: center;
   text-align: center;
+flex-direction: column;
+justify-content: center;
+ align-items: center;
 }
 
 #TheUsfuriya img  {

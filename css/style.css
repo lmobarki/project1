@@ -51,17 +51,30 @@ nav ul li a:hover {
   float: left;
   width: 60%;
   margin: 0 5%;
- 
-
- 
 
 }
+#Objective h2{
+  text-decoration-line: underline;
+}
+#Activities h2 { 
+ text-decoration-line: underline;
+}
+
 #Education, #Skills, #Hobbies{ 
   float: left;
   width: 25%;
-  margin: 0 5% 0 0;
+  margin: 0 5% 0 0; 
+}
+#Education h2 { 
+ text-decoration-line: underline;
+}
 
-   
+#Skills h2 { 
+ text-decoration-line: underline;
+}
+
+#Hobbies h2 { 
+ text-decoration-line: underline;
 }
 
  #Activities ul {
@@ -138,9 +151,15 @@ nav ul li a:hover {
 #Abjura{
   display: block;
   margin: 0px;
-  padding: 80px;
-  border: 0px;
+  padding: 50px;
+  border: 5px solid;
+
 }
+#Abjura h1 {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
 #Abjura h2, p {
   font-size: 18px;
   font-style: italic;
@@ -182,6 +201,7 @@ nav ul li a:hover {
   width: 200px;
   display: block;
   margin: auto;
+  top: 0px;
 
 	
 }
@@ -190,6 +210,7 @@ nav ul li a:hover {
   margin: 0px;
   padding: 80px;
   border: 0px;
+  border: 5px solid;
 }
 
 #SaturdayCouch h2, p {

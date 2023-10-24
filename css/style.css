@@ -67,18 +67,12 @@ nav ul li a:hover {
   font-style: italic;
  }
 
- 
-
-
-
 
 #boks  {
  display: flex;
  flex-direction: column;
  justify-content: center;
- align-items: center;
- 
-  
+ align-items: center; 
 }
 
 section {
@@ -92,10 +86,7 @@ section {
   justify-content: center;
   align-items: center;
   text-align: center;
-  
 }
-
-
 
 #Abjura{
   display: block;
@@ -116,16 +107,8 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
 
- 
- 
-}
-#Abjura img {
-  position: relative;
-  width: 200px;
-  display: block;
-  margin: auto;
-}
 
 #Finjan {
   display: block;
@@ -141,19 +124,10 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
- 
- 
 }
-#Finjan img {
-  position: relative;
-  width: 200px;
-  display: block;
-  margin: auto;
-  top: 0px;
 
-	
-}
+
+
 #SaturdayCouch {
   display: block;
   margin: 0px;
@@ -169,11 +143,9 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
- 
- 
 }
-#SaturdayCouch img {
+
+img {
   position: relative;
   width: 200px;
   display: block;

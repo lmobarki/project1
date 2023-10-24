@@ -3,7 +3,7 @@ body {
   color: #01263a;
 }
 nav {
-  background-color: #01263a;
+  background-color: #c5d9ed;
 }
 
 nav ul {
@@ -11,6 +11,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+
 }
 
 nav ul li {
@@ -21,7 +22,7 @@ nav ul li a {
   display: block;
   padding: 20px 40px;
   font-size: 20px;
-  color: #f0f6fc;
+  color: #01263a;
   text-decoration: none;
   font-weight: bold;
   text-transform: uppercase;
@@ -31,7 +32,7 @@ nav ul li a {
 
 nav ul li a:hover {
   background-color: #2271b1;
-  color: #000;
+  color:#000;
 }
 
 #name {
@@ -40,15 +41,16 @@ nav ul li a:hover {
   border: 20px solid;
   justify-content: center;
   align-items: center;
-  color: #01263a;  
+  color: #01263a;
+  
 }
 
 #Objective, #Activities { 
   float: left;
   width: 60%;
   margin: 0 5%;
-}
 
+}
  h2{
   text-decoration-line: underline;
 }
@@ -95,7 +97,7 @@ section {
 }
 #Abjura h1 {
   text-decoration-line: underline;
-  text-decoration-style: wavy;
+  text-decoration-style: double;
 }
 
 #Abjura h2, p {

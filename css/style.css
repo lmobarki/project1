@@ -1,8 +1,6 @@
-
-
 body {
-	background-color:#c5d9ed ;
-	color: #01263a;
+  background-color:#c5d9ed ;
+  color: #01263a;
 }
 nav {
   background-color: #01263a;
@@ -53,43 +51,25 @@ nav ul li a:hover {
   margin: 0 5%;
 
 }
-#Objective h2{
+ h2{
   text-decoration-line: underline;
 }
-#Activities h2 { 
- text-decoration-line: underline;
-}
+
 
 #Education, #Skills, #Hobbies{ 
   float: left;
   width: 25%;
   margin: 0 5% 0 0; 
 }
-#Education h2 { 
- text-decoration-line: underline;
-}
 
-#Skills h2 { 
- text-decoration-line: underline;
-}
-
-#Hobbies h2 { 
- text-decoration-line: underline;
-}
-
- #Activities ul {
+ ul {
   list-style-type: none;
   font-style: italic;
  }
 
- #Skills ul {
-  list-style-type: none;
-  font-style: italic;
- }
-#Hobbies ul {
-  list-style-type: none;
-  font-style: italic;
- }
+ 
+
+
 
 
 #boks  {
@@ -101,52 +81,21 @@ nav ul li a:hover {
   
 }
 
-#A_Administration {
+section {
   display: block;
   margin: 0px;
   padding: 80px;
-  border: 0px;
-}
-
-#A_Administration h2, p {
+  border: 5px solid;
   font-size: 18px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
- 
- 
-}
-#A_Administration img {
-  position: relative;
-  width: 200px;
-  display: block;
-  margin: auto;
-
-	
+  text-align: center;
+  
 }
 
-#TheUsfuriya  {
-  display: block;
-  margin: 0px;
-  padding: 80px;
-  border: 0px;
-}
-#TheUsfuriya  h2, p {
-  font-size: 18px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
 
-#TheUsfuriya img  {
-  position: relative;
-  width: 200px;
-  display: block;
-  margin: auto;
-}
 
 #Abjura{
   display: block;
@@ -241,11 +190,22 @@ nav ul li a:hover {
  }
 
 iframe {
- position: relative;
- display: block;
- margin: auto;
+  position: relative;
+  display: block;
+  margin: auto;
 	
 }
+
+footer {
+  clear: both;
+  background: #c5d9ed
+  font-size: 20px;
+  padding: 2%;
+  color: #01263a;	
+  font-family: Aprial, sane-serif;
+  border: 5px solid;
+}
+
 
 
 	

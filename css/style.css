@@ -42,7 +42,7 @@ nav ul li a:hover {
 }
 
 #name {
-  display: flex;
+  display: block;
   flex-direction: column;
   border: 20px solid;
   justify-content: center;

@@ -1,6 +1,7 @@
 body {
   background-color:#ffffff ;
   color: #854f6c;
+  margin: 20px;
 }
 nav {
   background-color: #ffffff;
@@ -35,7 +36,12 @@ nav ul li a:hover {
   background-color: #d4a3c4;
   color:#000;
 }
-
+#name, #Objective, #Education, #Skills, #Activities, #Hobbies, #boks, .section, #Abjura, #Finjan, #SaturdayCouch {
+  margin: 20px;
+}
+#Abjura, #Finjan, #SaturdayCouch {
+  padding: 20px;
+}
 #name {
   display: flex;
   flex-direction: column;
@@ -218,6 +224,7 @@ footer {
   color: #854f6c;	
   font-family: Aprial, sane-serif;
   border: 15px solid;
+  margin: 20px 0;
 }
 
 

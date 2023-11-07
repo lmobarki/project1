@@ -14,7 +14,6 @@ nav ul {
   float: left;
   overflow: hidden;
   width: 100%;
-  height: auto;
   position: fixed
   
 }
@@ -42,7 +41,7 @@ nav ul li a:hover {
 }
 
 #name {
-  display: block;
+  display: flex;
   flex-direction: column;
   border: 20px solid;
   justify-content: center;

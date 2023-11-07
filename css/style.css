@@ -17,7 +17,6 @@ nav ul {
 
 nav ul li {
   float: left;
-  width: 33%;
 }
 
 nav ul li a {
@@ -30,6 +29,7 @@ nav ul li a {
   text-transform: uppercase;
   font-family: Aprial, sane-serif;
   text-align: center;
+  display: inline-block;
 }
 
 nav ul li a:hover {
